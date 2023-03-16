@@ -4,7 +4,7 @@ int main(void)
 
 char Mycar[60] = "\"Programming is like building a multilingual puzzle\n";
 
-puts(Mycar)
+puts(Mycar);
 
 return (0);
 }
