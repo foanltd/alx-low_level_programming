@@ -12,7 +12,7 @@ int main(void)
 	char N = 'a';
 	for (N = 'a'; N <= 'z'; N++)
 	{
-		if (N == 'q' && N == e)
+		if (N == 'q' && N == 'e')
 		
 			continue;
 		}
