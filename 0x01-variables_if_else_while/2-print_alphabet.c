@@ -12,6 +12,6 @@ int main(void)
 	char N = 'a';
 
 	for (N = 'a'; N <= 'z'; N++)
-	putchar(N);
+	putchar(N\n);
 	return (0);
 }
