@@ -9,6 +9,8 @@
  */
 int main(void)
 {
-	putchar("abcdefghijklmnopqrstuvwxyz\n");
+	char = 'n';
+	for (n = 'A'; n <= 'Z'; ++n)
+	putchar("%c", n);
 	return (0);
 }
